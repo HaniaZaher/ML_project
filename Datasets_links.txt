@@ -1,0 +1,8 @@
+Numerical dataset link:
+
+https://www.kaggle.com/datasets/vikramamin/bank-loan-approval-lr-dt-rf-and-auc/data
+
+
+Image dataset link:
+
+https://www.kaggle.com/datasets/zalando-research/fashionmnist
